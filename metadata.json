@@ -1,0 +1,5 @@
+{
+  "name": "LaraLog Insight",
+  "description": "A professional Laravel log analyzer to parse, filter, and visualize error frequencies from your log files.",
+  "requestFramePermissions": []
+}
